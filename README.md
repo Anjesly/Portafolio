@@ -16,11 +16,11 @@ Este sistema está desarrollado utilizando las siguientes tecnologías:
 
 Si estás interesado en adquirir el sistema o tienes alguna pregunta, no dudes en contactarme:
 
-- **Derechos de autor**: Copyright © 2025 Carlos Pc's Sokuciones / All rights reserved
-- **Desarrollador Web y Lider de Proyecto**: Carlos Flores / dev.cflores
-- **WhatsApp**: +584123330319
-- **Email**: cflores@carlospcssoluciones.com.ve
-- **Github**: https://github.com/encrypthdd/php-js-portafolio.git
+- **Derechos de autor**: Copyright © 2025 / All rights reserved
+- **Desarrollador Web**: Anjesly Soriano / as.desarrolladora
+- **WhatsApp**: +584241371432
+- **Email**: asoriano@carlospcssoluciones.com.ve
+- **Github**: https://github.com/Anjesly/Portafolio.git
 
 ## 📍 Tecnologias
 
