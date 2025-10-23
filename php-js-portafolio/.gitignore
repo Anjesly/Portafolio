@@ -1,0 +1,6 @@
+# environment variables
+.env
+.env.desarrollo
+
+# logs
+PHP_errors.log

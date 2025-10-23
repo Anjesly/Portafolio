@@ -1,0 +1,69 @@
+body {
+    background: #000;
+    color: #bfbfbf;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    line-height: 1.5;
+  }
+  .bios-container {
+    width: 100%;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .energy-star {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    width: 150px;
+    text-align: right;
+  }
+  .energy-star img {
+    width: 150px;
+    height: auto;
+  }
+  .energy-star small {
+    display: block;
+    font-size: 12px;
+    color: #0f0;
+    text-align: center;
+    margin-top: 5px;
+    text-align: center;
+  }
+  .bios-content {
+    flex: 1;
+  }
+  .bios-line {
+    min-height: 24px;
+    white-space: pre;
+    letter-spacing: 0px;
+  }
+  .spacing {
+    height: 24px;
+  }
+  .highlight {
+    color: #fff;
+    font-weight: bold;
+  }
+  .ok {
+    color: #0f0;
+    font-weight: bold;
+  }
+  .footer {
+    margin-top: auto;
+    padding: 20px;
+    font-size: 16px;
+    color: #bfbfbf;
+  }
+  .footer strong {
+    color: #fff;
+  }
